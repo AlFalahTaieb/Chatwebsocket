@@ -1,2 +1,5 @@
-# Chatwebsocket
-Simple Chat with WebSocket
+```sh
+$ 
+$ npm install 
+$ node index
+```
